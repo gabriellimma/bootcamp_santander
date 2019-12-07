@@ -1,18 +1,20 @@
-# **************************************************************************** #
-#                                                                              #
-#                                                         :::      ::::::::    #
-#    ex05                                               :+:      :+:    :+:    #
-#                                                     +:+ +:+         +:+      #
-#    By: gsilva-l <marvin@42.fr>                    +#+  +:+       +#+         #
-#                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2019/12/07 18:17:16 by gsilva-l          #+#    #+#              #
-#    Updated: 2019/12/07 18:19:29 by gsilva-l         ###   ########.fr        #
-#                                                                              #
-# **************************************************************************** #
+//# **************************************************************************** #
+//#                                                                              #
+//#                                                         :::      ::::::::    #
+//#    ex05                                               :+:      :+:    :+:    #
+//#                                                     +:+ +:+         +:+      #
+//#    By: gsilva-l <marvin@42.fr>                    +#+  +:+       +#+         #
+//#                                                 +#+#+#+#+#+   +#+            #
+//#    Created: 2019/12/07 18:17:16 by gsilva-l          #+#    #+#              #
+//#    Updated: 2019/12/07 18:19:29 by gsilva-l         ###   ########.fr        #
+//#                                                                              #
+//# **************************************************************************** #
 
-Vimos como declarar uma variável e atribuir um valor a ela e, provavelmente, agora você se pergunta, e qual é a utilidade de armazenar dados em variáveis?
+Vimos como declarar uma variável e atribuir um valor a ela e, provavelmente, 
+ agora você se pergunta, e qual é a utilidade de armazenar dados em variáveis?
 
-As variáveis nos permitem reutilizar os dados atribuídos, simplesmente invocando seu nome.
+As variáveis nos permitem reutilizar os dados atribuídos, s
+implesmente invocando seu nome.
 
 var numero  = 124;
 console.log(numero); 
